@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253781086260",
+    "project_id": "sosenebrry",
+    "storage_bucket": "sosenebrry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253781086260:android:2248073ae52be280befa61",
+        "android_client_info": {
+          "package_name": "com.example.seneso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhuvhkTuJMUIGDkFjnkxno2D5HQ7DXIFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
